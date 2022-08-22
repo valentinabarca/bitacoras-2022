@@ -20,7 +20,7 @@ Recuerda que las preguntas a continuación son una guía y no es necesario respo
 
 ### Sobre las próximas entregas
 
-* La bitácora 1 tiene entrega para el día lunes 22 de agosto
+* La bitácora 1 tiene entrega para el día martes 23 de agosto
 * La entrega de las próximas bitácoras siempre será hasta el día anterior a la capacitación del martes (cualquier cambio se avisará con anticipación)
 
 
